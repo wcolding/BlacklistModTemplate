@@ -1,0 +1,5 @@
+*.log
+manifest.txt
+
+Tools/*.exe
+src/*
