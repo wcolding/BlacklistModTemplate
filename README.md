@@ -1,3 +1,6 @@
+# This repo is no longer being maintained!
+Check out the new template [here](https://github.com/wcolding/UMDModTemplate)
+
 ## Blacklist Mod Template
 This repository is a collection of scripts to make editing Tom Clancy's Splinter Cell Blacklist files as straightforward as possible. It automates the unpacking and repacking of Blacklist.umd so you can simply edit whatever config files you like, build the file and run.
 ***
